@@ -15,3 +15,5 @@ A collection of Tic-Tac-Toe implementations in Python, starting from a simple co
 🔜 AI-powered Tic-Tac-Toe (coming soon)
 
 🔜 GUI-based Tic-Tac-Toe (planned)
+# Update
+This line was added from the update-name branch for testing pull requests.
