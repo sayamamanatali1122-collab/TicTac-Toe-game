@@ -1,8 +1,8 @@
-Tic-Tac-Toe Game 🎮
+**Tic-Tac-Toe Game 🎮**
 
 A collection of Tic-Tac-Toe implementations in Python, starting from a simple console version and expanding into more advanced styles.
 
-Features
+**Features**
 
 ✅ Classic Tic-Tac-Toe in Python
 
