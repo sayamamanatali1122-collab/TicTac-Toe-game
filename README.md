@@ -1,2 +1,17 @@
-# TicTac-Toe-game
-Tic-Tac-Toe in Python (console) Classic Tic-Tac-Toe in Python Python Tic-Tac-Toe with classes Play Tic-Tac-Toe in terminal Python Tic-Tac-Toe console game Turn-based Tic-Tac-Toe in Python Tic-Tac-Toe Python | Console + AI soon Tic-Tac-Toe Python (GUI coming)
+Tic-Tac-Toe Game 🎮
+
+A collection of Tic-Tac-Toe implementations in Python, starting from a simple console version and expanding into more advanced styles.
+
+Features
+
+✅ Classic Tic-Tac-Toe in Python
+
+✅ Console-based Tic-Tac-Toe with turn-based play
+
+✅ Object-Oriented version using Python classes
+
+✅ Play directly in your terminal
+
+🔜 AI-powered Tic-Tac-Toe (coming soon)
+
+🔜 GUI-based Tic-Tac-Toe (planned)
